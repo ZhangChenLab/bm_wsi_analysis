@@ -37,7 +37,7 @@ python ./trail_extraction/train.py --txt_path DATA_DIRECTORY --save_dir RESULTS_
 
 Please ensure that Detectron2 is installed correctly, more detailed help can be found at https://github.com/facebookresearch/detectron2.
 ``` 
-python ./cell_recognition/get)single_cell.py --data_path DATA_DIRECTORY --save_route RESULTS_DIRECTORY 
+python ./cell_recognition/get_single_cell.py --data_path DATA_DIRECTORY --save_route RESULTS_DIRECTORY 
 ```
 
 
